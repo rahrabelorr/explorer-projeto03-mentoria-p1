@@ -5,6 +5,13 @@ Desafio do Stage 03 do Curso Explorer - Rocketseat
 
 # Criando formulários
 
+Nesse abordaremos:
+
+- Campo select;
+- Campo checkbox;
+- Imagem centralizada no header.
+
+
 # 💻 Sobre o desafio
 
 E aí, curtiu aprender mais sobre formulários? 👀
