@@ -1,4 +1,4 @@
-# explorer-projeto03-mentoria-p1
+# explorer-projeto03p1-mentoria
 
 Desafio do Stage 03 do Curso Explorer - Rocketseat
 
